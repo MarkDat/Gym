@@ -1,0 +1,15 @@
+E:\Products\WINFORM\GYMAPP\GymRoom\GymRoom\bin\Debug\GymRoom.exe.config
+E:\Products\WINFORM\GYMAPP\GymRoom\GymRoom\bin\Debug\GymRoom.exe
+E:\Products\WINFORM\GYMAPP\GymRoom\GymRoom\bin\Debug\GymRoom.pdb
+E:\Products\WINFORM\GYMAPP\GymRoom\GymRoom\bin\Debug\EntityFramework.dll
+E:\Products\WINFORM\GYMAPP\GymRoom\GymRoom\bin\Debug\EntityFramework.SqlServer.dll
+E:\Products\WINFORM\GYMAPP\GymRoom\GymRoom\bin\Debug\EntityFramework.xml
+E:\Products\WINFORM\GYMAPP\GymRoom\GymRoom\bin\Debug\EntityFramework.SqlServer.xml
+E:\Products\WINFORM\GYMAPP\GymRoom\GymRoom\obj\Debug\GymRoom.csprojAssemblyReference.cache
+E:\Products\WINFORM\GYMAPP\GymRoom\GymRoom\obj\Debug\GymRoom.Form1.resources
+E:\Products\WINFORM\GYMAPP\GymRoom\GymRoom\obj\Debug\GymRoom.Properties.Resources.resources
+E:\Products\WINFORM\GYMAPP\GymRoom\GymRoom\obj\Debug\GymRoom.csproj.GenerateResource.cache
+E:\Products\WINFORM\GYMAPP\GymRoom\GymRoom\obj\Debug\GymRoom.csproj.CopyComplete
+E:\Products\WINFORM\GYMAPP\GymRoom\GymRoom\obj\Debug\GymRoom.exe
+E:\Products\WINFORM\GYMAPP\GymRoom\GymRoom\obj\Debug\GymRoom.pdb
+E:\Products\WINFORM\GYMAPP\GymRoom\GymRoom\obj\Debug\GymRoom.RegistrationMember.resources

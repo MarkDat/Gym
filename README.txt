@@ -1,0 +1,1 @@
+Chạy file database.sql trước khi sử dụng projects
